@@ -1,0 +1,1 @@
+# scandit-titanium-datacapture-core
